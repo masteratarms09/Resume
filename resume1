@@ -1,0 +1,51 @@
+<! Doctype>
+
+<html>
+<head>
+    <title>
+        Dustin Johnson Resume
+    </title>
+</head>
+
+
+<body>
+    <img src="https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/61553789_430742770810210_5842058225901371392_n.jpg?_nc_cat=110&ccb=2&_nc_sid=174925&_nc_ohc=h7INc3WKfGIAX8mvCYG&_nc_ht=scontent-ort2-1.xx&oh=082830ff7bcfb3eb62f222a6f397a776&oe=5FEEC213" width="300f">
+  <h1>Dustin Johnson</h1>
+  <p>Dayton, Ohio 45449</p>
+  <p>513-953-9294</p>
+  <p>Manager4life95@gmail.com</p>
+   
+  <h2>About me</h2>
+  <ul>
+    <li>I'm currently 26 years old</li>
+    <li>I was born and raised in Dayton,Ohio</li>
+    <li>I live with my Girlfriend Rachel and my begal mixed named Apollo.</li>  
+    <li>I'm a self-starter programmer</li>
+</ul>
+
+  <h3>Career Experience</h3>
+  <p>Papa John's Pizza</p>
+  <p>Dates: Jan 2013-Nov 2020</p>
+  <p>responsibility</p>
+<ul>
+    <li>Day to day operations including but not limited to helping staff make food, food prep, and overseeing all daily tasks and cleaning is completed each shift.</li>
+    <li>Learn about computer systems and updates with linux, C.U.P.S programming</li>
+    <li>Hire,train and retain employees know when to let go of people.</li>    
+     <li>Talk with all upset guest via email or phone within 8 hours of being contacted</li>
+</ul>
+</body>
+<body>
+    <p>Skills</p>
+    <ul>
+     <li>Html,CSS,Javascript</li>
+     <li>Linux servers</li>
+     <li>Python</li>
+     <li>Minior knowledge of SQL</li>   
+    </ul>
+</body>
+
+<footer>
+<p>I know you may see this alot of self promoters to your business trying to get hired. I understand your frustaration when they don't work out but what if i told you could hire an assett to your self and your organization. I am a go-getter, I dont have to be supervised I will come lack of knowledge compared to college grad but i've started learning this field quickly and eagerly want to start within a organization.</p>
+</footer>
+
+</html>
